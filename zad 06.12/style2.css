@@ -1,0 +1,59 @@
+p{
+ 
+    text-indent: 10%;
+    
+}
+h1 {
+    font-family: 'Segoe UI';
+    color:#00004c;
+    letter-spacing:2pt;
+    
+}
+h2 {
+    font-family:'Comic Sans MS';
+    color:#1A1A00;
+
+
+}
+h3{
+    font-family:'Trebuchet MS';
+    color: #3D001F;
+}
+
+}
+.nag{
+color: green;
+}
+.nag2{
+    letter-spacing: 20pt;
+}
+.nag3{
+    font-family: 'Courier';
+    text-align: right;
+}
+table
+{
+    background-color: turquoise;
+
+}
+table, td {
+    border: 1px solid greenyellow;
+}
+.zero {
+    background-color: white;
+}
+.jeden {
+    background-color: white;
+}
+.dwa {
+    background-color: white;
+}
+.trzy {
+    background-color: white;
+}
+.cztery {
+    background-color: white;
+}
+th{
+    text-transform: uppercase;
+}

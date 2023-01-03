@@ -1,0 +1,26 @@
+table
+{
+    background-color: turquoise;
+
+}
+table, td {
+    border: 1px solid greenyellow;
+}
+.zero {
+    background-color: white;
+}
+.jeden {
+    background-color: white;
+}
+.dwa {
+    background-color: white;
+}
+.trzy {
+    background-color: white;
+}
+.cztery {
+    background-color: white;
+}
+th{
+    text-transform: uppercase;
+}
